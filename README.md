@@ -29,7 +29,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/universal-language-translator.git
+git clone [https://github.com/your-username/universal-language-translator.git](https://github.com/AshwinDahake/Translator_app/blob/main/app.py)
 cd universal-language-translator
 Install dependencies:
 
